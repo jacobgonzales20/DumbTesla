@@ -13,6 +13,8 @@ Method 1 (Disables ALL WiFi Capabilities & Can Be Used When Driving) -
 Requirements - 
 A iPhone running a jailbreak and access to cydia, Currently there are 2 jailbreak tools available for iOS https://unc0ver.dev/ and https://checkra.in/ i personally use checkra1n as it's unpatchable.
 
+Video Tutorial Method 1 - https://peertube.social/videos/watch/af411430-6164-4fd4-94b6-4dd663f5a77e
+
 Installation -
 1. You need to be jailbroken and have cydia installed
 2. You need to add the current repo in cydia https://repo.packix.com/
@@ -24,7 +26,6 @@ Installation -
 8. Press once on the numbers and click attempt to block device this will block all data from the device while keeping an established connection
 
 And you are done congrats you can even use when you drive!
-Video Tutorial Method 1 - https://peertube.social/videos/watch/af411430-6164-4fd4-94b6-4dd663f5a77e
 
 Method 2 (TESTING Disables Individual Domains & Can Be Used When Driving) - 
 
