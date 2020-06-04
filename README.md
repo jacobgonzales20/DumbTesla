@@ -24,7 +24,7 @@ Installation -
 8. Press once on the numbers and click attempt to block device this will block all data from the device while keeping an established connection
 
 And you are done congrats you can even use when you drive!
-A video coming soon on how to do this whole tutorial!
+Video Tutorial Method 1 - https://peertube.social/videos/watch/af411430-6164-4fd4-94b6-4dd663f5a77e
 
 Method 2 (TESTING Disables Individual Domains & Can Be Used When Driving) - 
 
