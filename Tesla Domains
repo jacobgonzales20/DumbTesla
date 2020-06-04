@@ -1,0 +1,76 @@
+# Title: Jacob's Tesla Blocklist for Pi-hole
+# Description: Tesla Domains Test List For The Website and Car
+# Please help with collecting domains! Please report any issues!
+
+# IP's
+23.3.7.62
+23.3.85.234
+23.213.23.96
+104.105.99.6
+23.43.177.160
+104.193.88.77
+69.192.34.140
+104.106.51.75
+23.53.254.142
+104.103.88.123
+23.205.205.148
+104.117.118.65
+
+# Tesla Domains
+tesla.com
+va.teslamotors.com
+daws.tesla.services
+x1.ap.tesla.services
+api.mp.tesla.services
+location.teslamotors.com
+api-prd.vn.tesla.services
+connman.vn.tesla.services
+hermes-prd.vn.tesla.services
+hermes-prd.ap.tesla.services
+vehicle-files.teslamotors.com
+telemetry-prd.vn.tesla.services
+telemetry-prd.ap.tesla.services
+hermes-stream-prd.vn.tesla.services
+maps-prd.go.tesla.services
+
+# Other
+www.slacker.com
+c.go-mpulse.net
+w.appzi.io
+i.slkimg.com
+ecsignal.slacker.com
+hwcdn.libsyn.com
+opml.radiotime.com
+track.secure.visit.com
+traffic.libsyn.com
+api.appzi.io
+ocsp.digicert.com
+maps.googleapis.com
+cdn-profiles.tunein.com
+api.slacker.com
+195vod-adaptive.akamaized.net
+s3-us-west-2.amazonaws.com
+182vod-adaptive.akamaized.net
+167vod-adaptive.akamaized.net
+
+# From Google Browser Thats Built In
+www.googletagsmanager.com
+www.googleapis.com
+www.paypalobjects.com
+cdnjs.cloudflare.com
+www.google-analytics.com
+fonts.googleapis.com
+fonts.gstatic.com
+stats.g.doubleclick.net
+www.paypal.com
+
+# Vimeo For Tesla Tutorial Videos
+fresnel.vimeocdn.com
+vimeo.com
+f.vimeocdn.com
+player.vimeo.com
+i.vimeocdn.com
+
+# Notes
+# hermes-prd.vn.tesla.services blocks mothership communication, meaning no phone app, media tokens will expire and media will stop working.
+# va.teslamotors.com is for firmware and map updates
