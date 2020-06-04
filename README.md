@@ -23,7 +23,7 @@ Installation -
 And you are done congrats you can even use when you drive!
 A video coming soon on how to do this whole tutorial!
 
-Method 2 (Testing) - 
+Method 2 (TESTING Disables Individual Domains) - 
 
 Requirements - 
 A iPhone running a jailbreak and access to cydia, Currently there are 2 jailbreak tools available for iOS https://unc0ver.dev/ and https://checkra.in/ i personally use checkra1n as it's unpatchable.
@@ -34,6 +34,8 @@ Installation -
 3. You will need $5 as the tweak is paid sadly but #supportjailbreakdevs
 4. You will need to purchase the tweak called TetherMe (Which allows you to use a vpn with a hotspot)
 5. Once TetherMe is installed launch your phones hotspot
-6. Open settings and navigate to Tetherme
+6. Open settings and navigate to TetherMe
 7. Enable Override Data Source then press "share from" and click Auto-Detect Active VPN
 8. Rest of the steps will soon be posted...
+
+Note - Make sure you use TetherMe for your right iOS Version!
