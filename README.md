@@ -17,5 +17,6 @@ Installation -
 7. Press once on the numbers and click attempt to block device this will block all data from the device while keeping a established connection
 
 And you are done congrats you can even use when you drive!
+A video coming soon on how to do this whole tutorial
 
 A personal request for people wanting to use this in a video or article or sharing it in general please give me credit i don't mind you sharing but just please the proper credit thanks!
