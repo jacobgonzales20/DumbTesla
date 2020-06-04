@@ -19,8 +19,9 @@ Installation -
 3. You will need $1.50 as the tweak is paid sadly but #supportjailbreakdevs
 4. You will need to purchase the tweak called Harpy (Which allows you to block individual clients on a hotspot network or WiFi)
 5. Once Harpy is installed launch your phones hotspot
-6. Open Harpy and navigation to the hotspot tab their should be some numbers including a IP and mac address
-7. Press once on the numbers and click attempt to block device this will block all data from the device while keeping an established connection
+6. Connect the tesla to your phones hotspot location
+7. Open Harpy and navigation to the hotspot tab their should be some numbers including a IP and mac address
+8. Press once on the numbers and click attempt to block device this will block all data from the device while keeping an established connection
 
 And you are done congrats you can even use when you drive!
 A video coming soon on how to do this whole tutorial!
