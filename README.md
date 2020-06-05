@@ -40,6 +40,6 @@ Installation -
 5. Once TetherMe is installed launch your phones hotspot
 6. Open settings and navigate to TetherMe
 7. Enable Override Data Source then press "share from" and click Auto-Detect Active VPN
-8. Rest of the steps will soon be posted...
+8. Rest of the steps will soon be posted once I find a vpn that allows custom blocks lists if you know of one please make a issue 
 
 Note - Make sure you use TetherMe for your right iOS Version!
