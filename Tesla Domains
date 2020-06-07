@@ -1,5 +1,5 @@
 # Title: Jacob's Tesla Blocklist for Pi-hole
-# Description: Tesla Domains Test List For The Website and Car
+# Description: Tesla Domains The Website & Car Communicate With
 # Please help with collecting domains! Please report any issues!
 
 # IP's
@@ -19,6 +19,7 @@
 104.106.51.75
 23.53.254.142
 104.99.22.152
+104.86.228.98
 172.231.53.238
 184.30.237.192
 104.103.88.123
