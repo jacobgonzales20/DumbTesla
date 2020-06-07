@@ -61,6 +61,8 @@ Installation -
 
 You can even use when you drive!
 
+Note - i am still looking for a alternative to windscribe that allows custom block lists so if you find one please create a issue
+
 Video Tutorial Coming Soon!
 
 Credits - 
