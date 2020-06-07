@@ -47,14 +47,14 @@ Installation -
 7. Launch windscribe then press signup enter in fake details and use the temp email 
 8. Then go back to the website https://temp-mail.org/en/ to confirm your email for windscribe
 9. Then open up windscribe and install the vpn profile by pressing allow
-10. Once the vpn profile is installed open windscribe and click the 3 lines at the top right
+10. Once the vpn profile is installed open windscribe and click the 3 lines at the top left
 11. Then navigate to account then press edit account at the bottom 
-12. Once you have been redirected to their website press My Account on the drop down menu then click R.O.B.E.R.T
+12. Once you have been redirected to their website press My Account on the drop down menu then slide to R.O.B.E.R.T
 13. Once in the R.O.B.E.R.T section click custom rules
 14. In custom rules add these 3 domains telemetry-prd.vn.tesla.services, telemetry-prd.ap.tesla.services, location.teslamotors.com sadly the free plan only lets you have 3 domains so i will for sure be looking for a better method. 
 15. Once you have added the 3 domains click "Apply to all connected devices immediately" at the bottom and press yes
-16. Now exit the website and head back to the vpn and press enable
-17. After it is enabled go to your settings and location the TetherMe tweak and enable override data source
+16. Now exit the website and head back to the vpn and press enable (Top Right)
+17. After it is enabled go to your settings and locate the TetherMe tweak and enable override data source
 18. Make sure "Share From" is selected to "Auto-Detect Active VPN" if it isn't select what ever is selected and change it 
 19. Once you have selected "Auto-Detect Active VPN" press personal hotspot and enable
 20. Then connect your car to your hotspot and you are done!
