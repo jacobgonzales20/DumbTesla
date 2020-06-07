@@ -34,11 +34,13 @@ Method 2 (TESTING Disables Individual Domains & Can Be Used When Driving) -
 Requirements - 
 A iPhone running a jailbreak and access to cydia, Currently there are 2 jailbreak tools available for iOS https://unc0ver.dev/ and https://checkra.in/ i personally use checkra1n as it's unpatchable.
 
+Note - Make sure you use TetherMe for your right iOS Version!
+
 Installation -
 1. You need to be jailbroken and have cydia installed
 2. You need to add the current repo in cydia http://apt.thebigboss.org/repofiles/cydia/ (Usually installed by default)
 3. You will need $5 as the tweak is paid sadly but #supportjailbreakdevs
-4. You will need to purchase the tweak called TetherMe (Which allows you to use a vpn with a hotspot)
+4. You will need to purchase the tweak called TetherMe (Which allows you to use a vpn with a hotspot) 
 5. You will then need to install TetherMe
 6. You will then need to download a vpn app from the app store called windscribe
 6. Once installed head over to https://temp-mail.org/ to get a temp email
@@ -49,9 +51,17 @@ Installation -
 11. Then navigate to account then press edit account at the bottom 
 12. Once you have been redirected to their website press My Account on the drop down menu then click R.O.B.E.R.T
 13. Once in the R.O.B.E.R.T section click custom rules
-14. In custom rules add these domains
+14. In custom rules add these 3 domains telemetry-prd.vn.tesla.services, telemetry-prd.ap.tesla.services, location.teslamotors.com sadly the free plan only lets you have 3 domains so i will for sure be looking for a better method. 
+15. Once you have added the 3 domains click "Apply to all connected devices immediately" at the bottom and press yes
+16. Now exit the website and head back to the vpn and press enable
+17. After it is enabled go to your settings and location the TetherMe tweak and enable override data source
+18. Make sure "Share From" is selected to "Auto-Detect Active VPN" if it isn't select what ever is selected and change it 
+19. Once you have selected "Auto-Detect Active VPN" press personal hotspot and enable
+20. Then connect your car to your hotspot and you are done!
 
-Note - Make sure you use TetherMe for your right iOS Version!
+You can even use when you drive!
+
+Video Tutorial Coming Soon!
 
 Credits - 
 jacobgonzales, techlore
