@@ -29,7 +29,7 @@ And you are done congrats you can even use when you drive!
 
 Video Proof Here - https://peertube.social/videos/watch/8a5114d3-1b41-47cf-afc4-6aa7b12a1b9b
 
-Method 2 Temporary Fix ( Disables Individual Domains & Can Be Used When Driving) - 
+Method 2 w/ Windscribe Temporary Fix ( Disables Individual Domains & Can Be Used When Driving)(Only Allows 3 Domains To Be Disabled On Free Plan) - 
 
 Requirements - 
 A iPhone running a jailbreak and access to cydia, Currently there are 2 jailbreak tools available for iOS https://unc0ver.dev/ and https://checkra.in/ i personally use checkra1n as it's unpatchable.
