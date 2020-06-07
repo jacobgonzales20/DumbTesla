@@ -45,3 +45,7 @@ Installation -
 8. Rest of the steps will soon be posted once I find a vpn that allows custom blocks lists if you know of one please make a issue 
 
 Note - Make sure you use TetherMe for your right iOS Version!
+
+Credits - 
+jacobgonzales20
+techlore
