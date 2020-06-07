@@ -47,4 +47,4 @@ Installation -
 Note - Make sure you use TetherMe for your right iOS Version!
 
 Credits - 
-jacobgonzales20, techlore
+jacobgonzales, techlore
