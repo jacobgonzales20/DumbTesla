@@ -39,10 +39,17 @@ Installation -
 2. You need to add the current repo in cydia http://apt.thebigboss.org/repofiles/cydia/ (Usually installed by default)
 3. You will need $5 as the tweak is paid sadly but #supportjailbreakdevs
 4. You will need to purchase the tweak called TetherMe (Which allows you to use a vpn with a hotspot)
-5. Once TetherMe is installed launch your phones hotspot
-6. Open settings and navigate to TetherMe
-7. Enable Override Data Source then press "share from" and click Auto-Detect Active VPN
-8. Rest of the steps will soon be posted once I find a vpn that allows custom blocks lists if you know of one please make a issue 
+5. You will then need to install TetherMe
+6. You will then need to download a vpn app from the app store called windscribe
+6. Once installed head over to https://temp-mail.org/ to get a temp email
+7. Launch windscribe then press signup enter in fake details and use the temp email 
+8. Then go back to the website https://temp-mail.org/en/ to confirm your email for windscribe
+9. Then open up windscribe and install the vpn profile by pressing allow
+10. Once the vpn profile is installed open windscribe and click the 3 lines at the top right
+11. Then navigate to account then press edit account at the bottom 
+12. Once you have been redirected to their website press My Account on the drop down menu then click R.O.B.E.R.T
+13. Once in the R.O.B.E.R.T section click custom rules
+14. In custom rules add these domains
 
 Note - Make sure you use TetherMe for your right iOS Version!
 
