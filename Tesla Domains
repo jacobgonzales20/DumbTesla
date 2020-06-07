@@ -11,6 +11,7 @@
 104.69.11.25
 23.213.23.96
 104.105.99.6
+23.55.196.97
 23.43.177.160
 104.79.153.22
 104.193.88.77
@@ -18,11 +19,13 @@
 104.106.51.75
 23.53.254.142
 104.99.22.152
+172.231.53.238
 184.30.237.192
 104.103.88.123
 23.205.205.148
 104.117.118.65
 104.100.102.60
+104.193.88.123
 
 # Tesla Domains
 tesla.com
@@ -61,6 +64,7 @@ s3-us-west-2.amazonaws.com
 182vod-adaptive.akamaized.net
 167vod-adaptive.akamaized.net
 esdk-ffl.spotify.com
+apresolve.spotify.com
 
 # From Google Browser Thats Built In
 www.googletagsmanager.com
