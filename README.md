@@ -66,4 +66,4 @@ Note - I am still looking for a alternative to windscribe that allows custom blo
 Video Tutorial Coming Soon!
 
 Credits - 
-jacobgonzales, techlore
+jacobgonzales, greentheonly, techlore
