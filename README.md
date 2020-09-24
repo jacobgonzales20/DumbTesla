@@ -13,7 +13,7 @@ Method 1 (Disables ALL WiFi Capabilities & Can Be Used When Driving) -
 Requirements - 
 A iPhone running a jailbreak and access to cydia, Currently there are 2 jailbreak tools available for iOS https://unc0ver.dev/ and https://checkra.in/ i personally use checkra1n as it's unpatchable.
 
-Video Tutorial Method 1 - https://peertube.social/videos/watch/af411430-6164-4fd4-94b6-4dd663f5a77e
+Video Tutorial Method 1 - https://diode.zone/videos/watch/1f31ad84-f700-448c-843c-4f67500630db
 
 Installation -
 1. You need to be jailbroken and have cydia installed
@@ -27,7 +27,7 @@ Installation -
 
 And you are done congrats you can even use when you drive!
 
-Video Proof Here - https://peertube.social/videos/watch/8a5114d3-1b41-47cf-afc4-6aa7b12a1b9b
+Video Proof Here - https://diode.zone/videos/watch/a668552e-8dab-41bd-a14a-48c184077952
 
 Method 2 w/ Windscribe Temporary Fix ( Disables Individual Domains & Can Be Used When Driving)(Only Allows 3 Domains To Be Disabled On Free Plan) - 
 
